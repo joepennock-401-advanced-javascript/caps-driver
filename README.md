@@ -1,13 +1,12 @@
-[ANOTHER README EXAMPLE HERE](https://github.com/codefellows/seattle-javascript-401n17/blob/master/reference/submission-instructions/labs/example/README.md)
+# LAB - Class 18
 
-# LAB - Class xx
+## Project: CAPS
 
-## Project: Project Name Here
-
-### Author: Student/Group Name
+### Author: Joe Pennock
 
 ### Links and Resources
 
+- [CAPS Hub Server](https://github.com/joepennock-401-advanced-javascript/caps)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
